@@ -1,0 +1,23 @@
+Octave3
+Octave5
+F q
+F# w
+G e
+G# r
+A t
+A# y
+B u
+C z
+C# s
+D x
+D# d
+E c
+F v
+F# g
+G b
+G# h
+A n
+A# j
+B m
+C k
+C# l
